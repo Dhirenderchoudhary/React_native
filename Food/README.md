@@ -7,7 +7,6 @@ A food delivery app built with React Native + Expo, focused on demonstrating all
 ---
 
 
-https://github.com/user-attachments/assets/f06f640e-f701-4aa0-90a2-ca6844875a23
 
 
 ## Tech Stack
