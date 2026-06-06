@@ -1,4 +1,4 @@
-# Clutch - Driver Safety Companion
+# Driver Safety Companion
 
 **Created and Maintained by Dhirender Choudhary**
 
